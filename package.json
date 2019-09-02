@@ -1,0 +1,23 @@
+{
+  "name": "testingcircleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilknick/testingcircleci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilknick/testingcircleci/issues"
+  },
+  "homepage": "https://github.com/nikhilknick/testingcircleci#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
